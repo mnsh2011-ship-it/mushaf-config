@@ -1,0 +1,9 @@
+{
+  "latest_version": "3.0.7",
+  "min_version": "3.0.4",
+  "ios_store_url": "https://apps.apple.com/app/id6766109198",
+  "android_store_url": "https://play.google.com/store/apps/details?id=app.mushaf",
+  "force_update": false,
+  "update_message_ar": "يتوفّر تحديث جديد لمصحف التلاوة بتحسينات وإصلاحات. ننصح بالتحديث لأفضل تجربة.",
+  "update_message_en": "A new update for Atilawah is available with improvements and fixes. We recommend updating for the best experience."
+}
