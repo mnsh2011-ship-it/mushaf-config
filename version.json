@@ -1,6 +1,10 @@
 {
   "latest_version": "3.0.8",
+  "latest_version_android": "3.0.9",
+  "latest_version_ios": "3.0.8",
   "min_version": "3.0.4",
+  "min_version_android": "3.0.4",
+  "min_version_ios": "3.0.4",
   "ios_store_url": "https://apps.apple.com/app/id6766109198",
   "android_store_url": "https://play.google.com/store/apps/details?id=app.mushaf",
   "force_update": false,
